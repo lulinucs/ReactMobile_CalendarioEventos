@@ -3,6 +3,8 @@
 
 Esse é um aplicativo mobile baseado em React Native, que permite visualizar informações sobre eventos e favoritá-los, gerando uma lista com os eventos que você pretende ir.
 
+![Principais telas do App](https://images2.imgbox.com/44/df/rGKcBxJd_o.png)
+
 ## Instalação
 
 Para instalar o aplicativo, siga os seguintes passos:
